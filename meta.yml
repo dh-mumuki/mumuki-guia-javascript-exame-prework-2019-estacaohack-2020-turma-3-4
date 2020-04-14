@@ -1,0 +1,16 @@
+---
+name: Exame Prework 2020
+locale: pt
+type: learning
+beta: false
+teacher_info: ''
+language: javascript
+id_format: "%05d"
+order:
+- 1
+- 6
+- 2
+- 3
+- 4
+- 5
+private: false

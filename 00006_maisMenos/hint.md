@@ -1,0 +1,1 @@
+Algumas perguntas que poderiam ajudar: Como poderia passar um array e perguntar a cada elemento se é positivo, negativo ou zero? Como poderia contabilizar os elementos? Como construir o array resultante com estes valores?
